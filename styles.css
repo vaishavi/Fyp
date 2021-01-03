@@ -1,0 +1,54 @@
+.container-fluid {
+ 
+  position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+  background: linear-gradient(rgba(26,26,26,0.1), rgba(20,20,20,0.1)) ,url("bg1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    font-family: 'Roboto Mono', monospace;
+ 
+
+}
+.navbar {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    /* font-size: 55px; */
+    letter-spacing: 5px;
+    
+  
+}
+.center {
+
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 10%;
+
+}
+
+.Image{
+    padding: 5%;
+    background-color: whitesmoke;
+    border-radius: 5px;
+    margin-bottom: 5%;
+}
+
+.Image-inner{
+
+    padding: 5%;
+    background-color: #40a8c4;
+    border-style: dotted;
+    
+}
+
+h3{
+    color: white;
+    font-family: 'Roboto Mono', monospace;
+}
+
